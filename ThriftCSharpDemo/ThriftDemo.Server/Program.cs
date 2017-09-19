@@ -25,8 +25,9 @@ namespace ThriftDemo.Server
                 TProcessor processor = new HelloService.Processor(new MyHelloService());
                 //创建服务端对象
                 TServer server = new TThreadPoolServer(processor, serverTransport, new TTransportFactory(), factory);
-                server.Serve();
+
                 Console.WriteLine("服务端正在监听8080端口");
+                server.Serve();
 
                 Console.Read();
             }

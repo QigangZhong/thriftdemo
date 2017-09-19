@@ -1,0 +1,6 @@
+E:\github\thriftdemo\ThriftCSharpDemo\ThriftDemo.Interface\bin\Debug\ThriftDemo.Interface.dll
+E:\github\thriftdemo\ThriftCSharpDemo\ThriftDemo.Interface\bin\Debug\ThriftDemo.Interface.pdb
+E:\github\thriftdemo\ThriftCSharpDemo\ThriftDemo.Interface\bin\Debug\Thrift45.dll
+E:\github\thriftdemo\ThriftCSharpDemo\ThriftDemo.Interface\obj\Debug\ThriftDemo.Interface.csprojResolveAssemblyReference.cache
+E:\github\thriftdemo\ThriftCSharpDemo\ThriftDemo.Interface\obj\Debug\ThriftDemo.Interface.dll
+E:\github\thriftdemo\ThriftCSharpDemo\ThriftDemo.Interface\obj\Debug\ThriftDemo.Interface.pdb

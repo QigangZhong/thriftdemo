@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ThriftDemoClient/ThriftDemoClient.iml" filepath="$PROJECT_DIR$/ThriftDemoClient/ThriftDemoClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThriftDemoInterface/ThriftDemoInterface.iml" filepath="$PROJECT_DIR$/ThriftDemoInterface/ThriftDemoInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThriftDemoServer/ThriftDemoServer.iml" filepath="$PROJECT_DIR$/ThriftDemoServer/ThriftDemoServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThriftJavaDemo.iml" filepath="$PROJECT_DIR$/ThriftJavaDemo.iml" />
+    </modules>
+  </component>
+</project>
